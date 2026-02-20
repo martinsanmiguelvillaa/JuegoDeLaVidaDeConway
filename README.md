@@ -30,6 +30,8 @@ Esta implementación permite:
 | T | Volver al último estado pausado |
 | Esc | Salir |
 
+<img width="997" height="799" alt="image" src="https://github.com/user-attachments/assets/6c51f447-4168-499c-8b5b-29bec7edc488" />
+
 ## Estructura del proyecto
 
 - `interfaz.py` → interfaz gráfica y controles  
