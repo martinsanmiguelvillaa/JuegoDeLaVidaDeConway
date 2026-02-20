@@ -42,4 +42,5 @@ Esta implementación permite:
 Clonar el repositorio y ejecutar:
 
 ```bash
+pip install pygame
 python interfaz.py
